@@ -3,3 +3,10 @@ Task Management Application - Develop a basic task management application using 
 
 # Language
 .NET C# (MVC)
+
+# How Copilate Used
+
+Error Handling
+Data Validation
+Auto Complete Class
+Auto Complete Class Properties
