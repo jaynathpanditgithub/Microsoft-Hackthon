@@ -1,0 +1,19 @@
+Apporba/Balaji
+
+Vikram : 
+
+Angular
+API
+User Authenthication
+Redish
+block chain-- deployment--> Kubernet
+
+
+Todo :
+
+Reset the VM
+
+1.SXCloud account
+2.Azure DevOps or VM we will use (GitHub)
+3.GITHub Onpromission Installation (Setup manually)
+4.GIThub/Azure DevOps Dashboard --(GoKul) 
